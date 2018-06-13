@@ -4,13 +4,13 @@
     "directive-selector": [
       true,
       "attribute",
-      "workshop-angular-development",
+      "app",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
-      "workshop-angular-development",
+      "app",
       "kebab-case"
     ]
   }
